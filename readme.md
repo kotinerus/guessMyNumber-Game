@@ -1,5 +1,5 @@
 
-# [1] guessMyNumber-Game
+# [GAME] guessMyNumber
 
 ## Technologies 
 - JavaScript ES6+

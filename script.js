@@ -30,6 +30,8 @@ document.querySelector('.again').addEventListener('click', function () {
   document.querySelector('.number').style.width = '15rem';
   document.querySelector('.number').textContent = '?';
   document.querySelector('.guess').value = '';
+  displayMessage("Start guessing...");
+  
 });
 
 document.querySelector('.check').addEventListener('click', function () {
